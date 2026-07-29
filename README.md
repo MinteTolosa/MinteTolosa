@@ -1,5 +1,17 @@
 # 💫 About Me:
-## 👋 Hi, I'm Mintesinot Tolosa<br><br>* 🎨 Graphic Designer<br>* 📈 Digital Marketer<br>* 🎓 Software Engineering Student at **IBT College (Canada)**<br>* 💻 Learning Full-Stack Development<br>* 🐍 Currently learning Python, JavaScript, React, Next.js, Node.js, Go, .NET, PostgreSQL, MongoDB & Neo4j<br>* ⚙️ Exploring DevOps, CI/CD, QA Testing, and Software Architecture<br>* 🌱 Passionate about continuous learning and open-source<br>* 🚀 Building projects to solve real-world problems<br>* 🎯 Aspiring Full-Stack Software Engineer<br>* 🤝 Open to collaboration on exciting software projects<br>
+## 👋 Hi, I'm Mintesinot Tolosa
+
+* 🎓 Electrical and Computer Engineering Graduate
+* 🎨 Graphic Designer
+* 📈 Digital Marketer
+* 💻 Software Engineering Student at **IBT College (Canada)**
+* 🚀 Learning Full-Stack Development
+* 🐍 Currently learning Python, JavaScript, React, Next.js, Node.js, Go, .NET, PostgreSQL, MongoDB & Neo4j
+* ⚙️ Exploring DevOps, CI/CD, QA Testing, and Software Architecture
+* 🌱 Passionate about continuous learning and open-source
+* 🛠️ Building projects to solve real-world problems
+* 🎯 Aspiring Full-Stack Software Engineer
+* 🤝 Open to collaboration on exciting software projects
 
 
 ## 🌐 Socials:
